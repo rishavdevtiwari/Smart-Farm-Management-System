@@ -7,7 +7,8 @@ A C compiler will be required to compile and run the file in order to create a .
 The most commonly used C compilers are `MinGW` and `GCC` compilers.
 
 <h3>STEPS TO INSTALL</h3>
-1.Downloading and Installing a C Compiler for your system is mandatory.
+1.Downloading and Installing a C Compiler
+Downloading and Installing a C compiler for your system is mandatory.
 Alternatively, you can setup a C compiler in your VS CODE IDE, or download an IDE with inbuilt compiler like `DEV C++`,`TURBO C++`
 
 2.Clone or Download the repository.
