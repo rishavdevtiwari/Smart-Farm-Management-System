@@ -1,0 +1,6 @@
+daalfield 100.00 35.00%
+bhaatkofield 20.00 39.00%
+dryfield 1.00 1.00%
+wetfield 1.00 99.00%
+ricekofield1 4560.00 20.00%
+ricekofield2 1200.00 34.00%

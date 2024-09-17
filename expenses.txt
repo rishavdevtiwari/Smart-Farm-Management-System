@@ -1,0 +1,4 @@
+Planting,labour,$100.00
+Watering,labour,$100.00
+Status,checking,$10.00
+cctv,monitoring,$347.00
